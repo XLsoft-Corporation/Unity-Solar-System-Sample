@@ -4,7 +4,7 @@ Solar System Sample using Kudan AR
 
 ## Instructions
 
-- Download the Kudan Unity Plugin from [the XLsoft Kudan Download Page](https://www.xlsoft.com/en/products/kudan/download.html).
+- Download the Kudan Unity Plugin from [the XLsoft Kudan Download Page](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Unity-Solar-System-Sample).
 - Open the Unity Project and go to **Assets -> Import Package -> Custom Package**
 - Add `KudanARUnity.unitypackage`
 
@@ -36,6 +36,6 @@ Build the app by going to File -> Build Settings, selecting iOS and clicking Bui
 - Disable Bitcode, go to the Build Settings tab of your workspace, scroll down to Build Options, and set Enable Bitcode to No.
 - Run the XCode project
 
-For any additional questions or concerns, visit the [XLsoft Kudan Developer Hub](https://www.xlsoft.com/doc/kudan/).
+For any additional questions or concerns, visit the [XLsoft Kudan Developer Hub](https://www.xlsoft.com/doc/kudan/?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Unity-Solar-System-Sample).
 
-For any inquires, please contact [XLsoft](https://www.xlsoft.com/en/services/xl_form.html).
+For any inquires, please contact [XLsoft](https://www.xlsoft.com/en/services/xl_form.html?option2=Kudan&utm_source=external&utm_medium=github&utm_campaign=xlsoft_Unity-Solar-System-Sample).
