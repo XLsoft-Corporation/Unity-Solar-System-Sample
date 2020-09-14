@@ -1,6 +1,6 @@
 # Unity Solar System Sample
 
-Solar System Sample using Kudan AR
+Solar System Sample using Kudan AR (Compatible with Unity 2018.x)
 
 ## Instructions
 
