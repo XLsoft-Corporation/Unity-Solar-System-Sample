@@ -1,6 +1,6 @@
 # Unity Solar System Sample
 
-Solar System Sample using Kudan AR (Compatible with Unity 2018.x)
+Solar System Sample using Kudan AR
 
 ## Instructions
 
@@ -10,7 +10,7 @@ Solar System Sample using Kudan AR (Compatible with Unity 2018.x)
 
 ### Setting up the Application Identifier
 
-Make sure your Application Identifier is correct for the API Key you’re using. You can find your project’s Application Identifier by clicking the Set App ID button on the Kudan Trackerscript, or by going to **Edit -> Project Settings -> Player** and opening Other Settings in the iOS tab.
+Make sure your Application Identifier is correct for the API Key you’re using. You can find your project’s Application Identifier by clicking the Set App ID button on the Kudan Trackerscript, or by going to **Edit -> Project Settings -> Player** and opening Other Settings in the iOS and Android tab.
 
 Your Application ID be either:
 
@@ -33,7 +33,7 @@ Add a camera usage description in the appropriate field. Since Kudan uses the ca
 
 Build the app by going to File -> Build Settings, selecting iOS and clicking Build. Unity will build the selected scenes and produce an XCode project in the selected folder.
 
-- Disable Bitcode, go to the Build Settings tab of your workspace, scroll down to Build Options, and set Enable Bitcode to No.
+- Disable Bitcode: If you are using Unity 2017/2018, go to the Build Settings tab of your workspace, scroll down to Build Options, and set Enable Bitcode to No.
 - Run the XCode project
 
 For any additional questions or concerns, visit the [XLsoft Kudan Developer Hub](https://www.xlsoft.com/doc/kudan/?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Unity-Solar-System-Sample).
