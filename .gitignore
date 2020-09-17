@@ -130,6 +130,7 @@ $RECYCLE.BIN/
 # My Ignore files
 
 *.apk
+*.symbols.zip
 /ios/
 /Assets/KudanAR/
 /Assets/KudanAR.meta
